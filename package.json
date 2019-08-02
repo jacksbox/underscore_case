@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "Mario Jäckle <me@jacksbox.de>",
+  "author": "Mario Jäckle <npm@jacksbox.de>",
   "license": "MIT",
   "dependencies": {
     "camelcase": "^5.3.1"
