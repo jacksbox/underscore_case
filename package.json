@@ -1,6 +1,6 @@
 {
   "name": "underscore_case",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Transforms strings to UNDERSCORE_CASE notation.",
   "main": "index.js",
   "scripts": {
