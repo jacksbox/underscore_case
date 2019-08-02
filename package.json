@@ -1,0 +1,20 @@
+{
+  "name": "underscore_case",
+  "version": "0.1.1",
+  "description": "Transforms strings to UNDERSCORE_CASE notation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mario Jäckle <me@jacksbox.de>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^5.3.1"
+  },
+	"keywords": [
+		"underscorecase",
+		"underscore_case",
+		"underscore-case",
+		"underscore"
+	]
+}
