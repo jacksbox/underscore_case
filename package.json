@@ -7,6 +7,10 @@
     "test": "node test.js"
   },
   "author": "Mario Jäckle <npm@jacksbox.de>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jacksbox/underscore_case"
+  },
   "license": "MIT",
   "dependencies": {
     "camelcase": "^5.3.1"
