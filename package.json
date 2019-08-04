@@ -1,6 +1,6 @@
 {
   "name": "underscore_case",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Transforms strings to UNDERSCORE_CASE notation.",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "author": "Mario Jäckle <npm@jacksbox.de>",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/jacksbox/underscore_case"
+    "type": "git",
+    "url": "https://github.com/jacksbox/underscore_case"
   },
   "license": "MIT",
   "dependencies": {
     "camelcase": "^5.3.1"
   },
-	"keywords": [
-		"underscorecase",
-		"underscore_case",
-		"underscore-case",
-		"underscore"
-	]
+  "keywords": [
+    "underscorecase",
+    "underscore_case",
+    "underscore-case",
+    "underscore"
+  ]
 }
